@@ -13,7 +13,6 @@ Business objective:
 - Power BI Desktop
 - Power Query
 - DAX
-- Microsoft Excel
 - Data Modeling
 - GitHub
 
@@ -145,9 +144,3 @@ Plant-Sales-PowerBI-Analytics/
 `-- screenshots/
     `-- README.md
 ```
-
-## Portfolio Note
-GitHub cannot display a PBIX as an interactive Power BI report. Recruiters can download the PBIX and open it in Power BI Desktop. Add dashboard screenshots to the screenshots folder for easier portfolio viewing.
-
-## Disclaimer
-This project is for portfolio/learning purposes. The insights describe patterns in the supplied dataset and should not be treated as causal conclusions without further statistical analysis.
