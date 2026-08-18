@@ -357,17 +357,9 @@ plants-co-performance-analysis/
 
 **Personal Data Analytics Project**
 
-**Tools:** Power BI | DAX | Power Query | Excel
+**Tools:** Power BI | DAX | Power Query 
 
 **Focus:** Sales Analysis | Profitability Analysis | Business Performance
-
----
-
-# 📌 Disclaimer
-
-This is a personal portfolio and learning project.
-
-The observations in this README describe patterns found in the supplied dataset. They should not be treated as proof of cause-and-effect relationships without additional analysis.
 
 ---
 
@@ -375,4 +367,4 @@ The observations in this README describe patterns found in the supplied dataset.
 
 **Riddhi Waghe**
 
-Data Analytics | Power BI | SQL | Excel | Python
+Data Analytics | Power BI | SQL | Excel | Python | Tableau
